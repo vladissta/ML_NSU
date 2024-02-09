@@ -60,3 +60,7 @@ if __name__ == '__main__':
 
     accountant.give_salary(pupa)
     accountant.give_salary(lupa)
+
+    print()
+    print(f"{pupa.name} have {pupa.money} money")
+    print(f"{lupa.name} have {lupa.money} money")
