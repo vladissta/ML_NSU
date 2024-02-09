@@ -56,8 +56,7 @@ if __name__ == '__main__':
     pupa.do_work([1, 2, 3, 4], [1, 2, 3, 4])
     pupa.do_work([1, 2], [1, 2])
 
-    lupa.do_work([1,3,5], [1,2,3])
+    lupa.do_work([1, 3, 5], [1, 2, 3])
 
     accountant.give_salary(pupa)
     accountant.give_salary(lupa)
-
